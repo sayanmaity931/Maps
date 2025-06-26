@@ -63,4 +63,11 @@ dependencies {
 
     implementation ("com.google.android.gms:play-services-maps:18.2.0")
 
+    implementation("com.google.accompanist:accompanist-permissions:+")
+
+    implementation("com.google.android.gms:play-services-location:+")
+
+    // ViewModel for Compose
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:+")
+
 }
